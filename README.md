@@ -1,3 +1,4 @@
+```javascript
 function Baby() {
   this.name = 'name my baby';
   this.dueData = '2019-01-13';
@@ -21,3 +22,4 @@ Baby.prototype.birth = function() {
 const baby = new Baby();
 
 baby.countdown();
+```
